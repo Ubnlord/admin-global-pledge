@@ -1,4 +1,4 @@
-# Pledge Invest Admin
+# Global Pledge Admin
 
 Dedicated administrator frontend for Pledge-Invest. Investor-facing pages stay in `Ubnlord/Pledge-Invest`.
 
