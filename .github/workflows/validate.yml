@@ -1,4 +1,4 @@
-name: Validate Pledge Invest Admin
+name: Validate Global Pledge Admin
 
 on:
   push:
