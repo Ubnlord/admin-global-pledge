@@ -42,7 +42,7 @@ export const auth = {
     if (error && error.message !== 'Auth session missing!') throw error;
 
     const user = normalizeUser(data?.user);
-    // This repository is the PLEDGE INVEST admin app. Never restore a cached
+    // This repository is the GLOBAL PLEDGE admin app. Never restore a cached
     // investor/other-account session into the administrator workspace.
     const adminEmail = 'pledgeinvest4@gmail.com';
     if (user && String(user.email || '').trim().toLowerCase() !== adminEmail) {
