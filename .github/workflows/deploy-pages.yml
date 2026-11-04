@@ -1,4 +1,4 @@
-name: Deploy Pledge Invest Admin to GitHub Pages
+name: Deploy Global Pledge Admin to GitHub Pages
 
 on:
   push:
